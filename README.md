@@ -1,29 +1,30 @@
-# Android Prework - *Prework App*
+# Lab #1 - *Tap Counter App*
 
 Submitted by: **Mi'Angel Sewer**
 
-**Prework App** is an Android app that shows an image and an introductory message, and allows pressing a button to display a Toast. 
+**Tap Counter App** is an Android app that tracks the number of times a user has tapped on the screen, and allows users to accumulate points that can be exchanged for upgrades.
 
-Time spent: **15** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [y ] Image and introductory message displayed on screen
-* [y ] Button displayed on screen
+* [y ] User can see a number displayed on the screen. The number starts at 0.
+* [y ] User can tap on a button to see the number displayed increase by 1.
 * [ y] Toast with message appears when the button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [Y] User can exchange 100 taps for an upgrade where each tap will count as 2 taps
+* [Y] User can exchange 100 taps for an icon button instead of the standard one.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <p align="center">
-  <img src="https://i.imgflip.com/a4cqfg.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
+  <img src="https://i.imgflip.com/a4ke56.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
 </p>
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -31,8 +32,6 @@ GIF created with imgflip
 <!--[imgflip](https://imgflip.com/gif-maker)-->
 
 ## Notes
-Describe any challenges encountered while building the app.
-One of the issues I encountered while building the app was the emulator not working properly.
 
 ## License
 
